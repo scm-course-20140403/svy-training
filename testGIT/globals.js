@@ -8,3 +8,10 @@ function method1() {
 	
 	
 }
+
+/**
+ * @properties={typeid:24,uuid:"BEAAFE5B-DC11-4DFD-B17D-C4832FE73BC2"}
+ */
+function method3(){
+	//	added in feature branch
+}
