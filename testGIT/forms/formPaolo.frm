@@ -1,0 +1,13 @@
+encapsulation:60,
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"0CD0FCE9-2B9C-43BC-BE27-7A0551E37018"
+}
+],
+name:"formPaolo",
+showInMenu:true,
+typeid:3,
+uuid:"D29E3AF9-753E-4196-B629-5FB3C8DF7907"
