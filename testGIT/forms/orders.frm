@@ -1,0 +1,14 @@
+dataSource:"db:/example_data/orders",
+encapsulation:60,
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"ED24FC75-ED80-4D70-A3FC-DA273DC99936"
+}
+],
+name:"orders",
+showInMenu:true,
+typeid:3,
+uuid:"59951F80-4060-474B-B60A-17A3D16BB61E"
