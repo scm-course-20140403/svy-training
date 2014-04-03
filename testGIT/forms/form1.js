@@ -6,7 +6,7 @@
  *
  * @private
  *
- * @properties={typeid:24,uuid:"7CC253A6-B9B0-4FC9-BD30-290F96A1041B"}
+ * @properties={typeid:24,uuid:"3230DC4F-7BDC-4832-90E9-2A2868A9BEA9"}
  */
 function onActionDie(event) {
 	application.exit();
