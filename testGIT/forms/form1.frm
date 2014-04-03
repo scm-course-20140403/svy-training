@@ -2,10 +2,9 @@ dataSource:"db:/example_data/customers",
 encapsulation:60,
 items:[
 {
-location:"60,70",
-size:"80,20",
-text:"Companyname",
-transparent:true,
+location:"30,70",
+size:"110,20",
+text:"Copmany Name",
 typeid:7,
 uuid:"7E62A29C-2CCC-4D06-B99A-389DDC08C5F7"
 },
