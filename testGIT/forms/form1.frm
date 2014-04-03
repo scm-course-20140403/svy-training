@@ -2,6 +2,24 @@ dataSource:"db:/example_data/customers",
 encapsulation:60,
 items:[
 {
+dataProviderID:"country",
+location:"155,112",
+name:"country",
+size:"155,20",
+typeid:4,
+uuid:"0E2FEA67-93EB-47B4-9AC5-1E2875ADEC37"
+},
+{
+labelFor:"country",
+location:"29,112",
+name:"country_label",
+size:"91,20",
+text:"Country",
+transparent:true,
+typeid:7,
+uuid:"1A9097E1-23BA-4A4C-85FD-DCC702557515"
+},
+{
 location:"30,70",
 size:"90,20",
 text:"Copmany Name",
