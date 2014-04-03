@@ -39,6 +39,15 @@ onDataChangeMethodID:"444ECEC1-BE60-4761-A513-0B8A177A0F6F",
 size:"160,20",
 typeid:4,
 uuid:"D54AB1C7-7E8A-4ECC-B19B-BD715AB7D760"
+},
+{
+location:"458,181",
+onActionMethodID:"-1",
+onDoubleClickMethodID:"-1",
+onRightClickMethodID:"-1",
+text:"save",
+typeid:7,
+uuid:"DFDBEDF6-4D5E-4550-9A25-3EB7C703D5B9"
 }
 ],
 name:"form1",
