@@ -4,7 +4,7 @@ items:[
 {
 location:"30,70",
 size:"90,20",
-text:"Copmany Name",
+text:"Company Name",
 typeid:7,
 uuid:"7E62A29C-2CCC-4D06-B99A-389DDC08C5F7"
 },
