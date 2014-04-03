@@ -23,3 +23,10 @@ function method3(){
 function method2(){
 	//	added in master branch
 }
+
+/**
+ * @properties={typeid:24,uuid:"187A87E3-5BF9-4F32-8901-1680A6393698"}
+ */
+function method(){
+	//added in master
+}
