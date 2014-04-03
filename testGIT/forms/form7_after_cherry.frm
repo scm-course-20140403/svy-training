@@ -1,0 +1,14 @@
+dataSource:"db:/example_data/orders",
+encapsulation:60,
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"9D04E5FC-C01D-493F-969D-A2D8BE2EA931"
+}
+],
+name:"form7_after_cherry",
+showInMenu:true,
+typeid:3,
+uuid:"D572EE9A-8C78-4EE4-8B36-A4744F52BBC3"
