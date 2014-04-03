@@ -22,6 +22,16 @@ typeid:7,
 uuid:"7E62A29C-2CCC-4D06-B99A-389DDC08C5F7"
 },
 {
+location:"35,143",
+onActionMethodID:"7CC253A6-B9B0-4FC9-BD30-290F96A1041B",
+onDoubleClickMethodID:"-1",
+onRightClickMethodID:"-1",
+size:"239,63",
+text:"Die",
+typeid:7,
+uuid:"9E75F38B-581D-48AE-966D-50F86A8C93AF"
+},
+{
 height:480,
 partType:5,
 typeid:19,
