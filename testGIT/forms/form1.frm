@@ -6,7 +6,28 @@ location:"30,70",
 size:"90,20",
 text:"Copmany Name",
 typeid:7,
+uuid:"26B4DE73-05DA-4251-BA05-A01153E6D661"
+},
+{
+location:"30,145",
+size:"90,20",
+text:"Copmany Name",
+typeid:7,
 uuid:"7E62A29C-2CCC-4D06-B99A-389DDC08C5F7"
+},
+{
+location:"30,120",
+size:"90,20",
+text:"Copmany Name",
+typeid:7,
+uuid:"9160438F-5B66-4B0F-886D-D16DA6AFC130"
+},
+{
+location:"30,95",
+size:"90,20",
+text:"Copmany Name",
+typeid:7,
+uuid:"98AE6A4F-CFD6-438A-AA6E-0DF96F44AFA1"
 },
 {
 height:480,
