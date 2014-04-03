@@ -6,7 +6,8 @@ function method1() {
 	//	changed in feature branch
 	application.output('Foobar');
 	
-	
+	//	added in master branch
+	application.output('Master');
 }
 
 /**
@@ -14,4 +15,11 @@ function method1() {
  */
 function method3(){
 	//	added in feature branch
+}
+
+/**
+ * @properties={typeid:24,uuid:"9FD3E9C0-134D-40EE-9766-1CAAF542F800"}
+ */
+function method2(){
+	//	added in master branch
 }
