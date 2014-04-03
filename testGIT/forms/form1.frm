@@ -17,6 +17,7 @@ uuid:"D1E18247-0E88-48DE-848B-E360639E352A"
 {
 dataProviderID:"companyname",
 location:"150,70",
+onDataChangeMethodID:"444ECEC1-BE60-4761-A513-0B8A177A0F6F",
 size:"160,20",
 typeid:4,
 uuid:"D54AB1C7-7E8A-4ECC-B19B-BD715AB7D760"
