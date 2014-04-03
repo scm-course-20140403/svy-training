@@ -3,7 +3,7 @@ encapsulation:60,
 items:[
 {
 location:"30,70",
-size:"110,20",
+size:"90,20",
 text:"Copmany Name",
 typeid:7,
 uuid:"7E62A29C-2CCC-4D06-B99A-389DDC08C5F7"
