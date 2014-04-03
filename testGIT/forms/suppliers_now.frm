@@ -1,0 +1,14 @@
+dataSource:"db:/example_data/suppliers",
+encapsulation:60,
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"1E15E598-2C73-4764-8789-720B5DF78D5F"
+}
+],
+name:"suppliers_now",
+showInMenu:true,
+typeid:3,
+uuid:"AD4C4D12-B652-40CD-9CEF-D0C91B6DEF5F"
