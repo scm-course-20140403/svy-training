@@ -30,3 +30,10 @@ function method2(){
 function method(){
 	//added in master
 }
+
+/**
+ * @properties={typeid:24,uuid:"E1A4393A-BF07-4AEE-8622-21F19C567219"}
+ */
+function methodPaolo(){
+	application.output('Paolo')
+}

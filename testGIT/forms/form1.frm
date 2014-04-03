@@ -2,6 +2,19 @@ dataSource:"db:/example_data/customers",
 encapsulation:60,
 items:[
 {
+location:"130,139",
+onActionMethodID:"8CCD141B-DC2B-45AB-92D3-2D9AF3AD2DDE",
+typeid:4,
+uuid:"13D6B81C-4B74-4564-A3D8-8653907FDBCF"
+},
+{
+location:"30,139",
+text:"Paolo",
+transparent:true,
+typeid:7,
+uuid:"4DA989D4-5E92-442B-BD38-60E282C7DECD"
+},
+{
 location:"30,70",
 size:"90,20",
 text:"Copmany Name",
