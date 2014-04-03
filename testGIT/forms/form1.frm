@@ -37,6 +37,27 @@ typeid:7,
 uuid:"98AE6A4F-CFD6-438A-AA6E-0DF96F44AFA1"
 },
 {
+dataProviderID:"companyname",
+location:"150,95",
+size:"160,20",
+typeid:4,
+uuid:"B0B8A9BF-F845-4D61-AD15-7646D57D911F"
+},
+{
+location:"30,120",
+size:"90,20",
+text:"Copmany Name",
+typeid:7,
+uuid:"9160438F-5B66-4B0F-886D-D16DA6AFC130"
+},
+{
+location:"30,95",
+size:"90,20",
+text:"Copmany Name",
+typeid:7,
+uuid:"98AE6A4F-CFD6-438A-AA6E-0DF96F44AFA1"
+},
+{
 location:"30,183",
 onActionMethodID:"3230DC4F-7BDC-4832-90E9-2A2868A9BEA9",
 onDoubleClickMethodID:"-1",
