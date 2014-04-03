@@ -4,4 +4,7 @@
  */
 function method1() {
 	application.output('FOO');
+	
+	//	added in master branch
+	application.output('Master');
 }
