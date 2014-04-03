@@ -4,9 +4,44 @@ items:[
 {
 location:"30,70",
 size:"90,20",
+text:"Company Name",
+typeid:7,
+uuid:"26B4DE73-05DA-4251-BA05-A01153E6D661"
+},
+{
+dataProviderID:"companyname",
+location:"150,120",
+size:"160,20",
+typeid:4,
+uuid:"3ADCB4EC-6DA6-44ED-81C9-B53B7D9A1285"
+},
+{
+location:"30,145",
+size:"90,20",
 text:"Copmany Name",
 typeid:7,
 uuid:"7E62A29C-2CCC-4D06-B99A-389DDC08C5F7"
+},
+{
+location:"30,120",
+size:"90,20",
+text:"Copmany Name",
+typeid:7,
+uuid:"9160438F-5B66-4B0F-886D-D16DA6AFC130"
+},
+{
+location:"30,95",
+size:"90,20",
+text:"Copmany Name",
+typeid:7,
+uuid:"98AE6A4F-CFD6-438A-AA6E-0DF96F44AFA1"
+},
+{
+dataProviderID:"companyname",
+location:"150,95",
+size:"160,20",
+typeid:4,
+uuid:"B0B8A9BF-F845-4D61-AD15-7646D57D911F"
 },
 {
 location:"35,143",
@@ -30,6 +65,13 @@ location:"150,70",
 size:"160,20",
 typeid:4,
 uuid:"D54AB1C7-7E8A-4ECC-B19B-BD715AB7D760"
+},
+{
+dataProviderID:"companyname",
+location:"150,145",
+size:"160,20",
+typeid:4,
+uuid:"E6ACB2B4-A987-460D-9C8D-3B21BD4EA805"
 }
 ],
 name:"form1",

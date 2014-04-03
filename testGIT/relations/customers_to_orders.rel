@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/example_data/orders",
+items:[
+{foreignColumnName:"customerid",primaryDataProviderID:"customerid",typeid:23,uuid:"AFB02E9F-FA6F-49E5-9470-5FCE6F7D3DA2"}
+],
+joinType:1,
+name:"customers_to_orders",
+primaryDataSource:"db:/example_data/customers",
+typeid:22,
+uuid:"3B2AC097-45E8-4742-9518-D78553A91F1E"
