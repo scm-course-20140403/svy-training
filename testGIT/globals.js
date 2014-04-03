@@ -30,3 +30,10 @@ function method2(){
 function method(){
 	//added in master
 }
+
+/**
+ * @properties={typeid:24,uuid:"BCA7E95E-D57C-40FB-B00E-477A9236023F"}
+ */
+function PaoloMaster(){
+	
+} 
